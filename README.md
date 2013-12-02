@@ -13,6 +13,9 @@ Utilize a música abaixo para encarnar um dos personagens e componha dois a trê
     Que é cabrocha de alta linha
     E nos olhos tem seu não sei que
 
+Rosinha era uma cabrocha complexa. Filha do morro, amava sua comunidade ao mesmo tempo que ficava deslumbrada pelas luzes e brilhos do asfalto. Dominava com o olhar, vários malandros que comumente brigavam por algumas horas na cia de tão bela mulher.
+
+
     Numa linda madrugada
     Ao voltar da batucada
     Pra dois malandros olhou a sorrir
