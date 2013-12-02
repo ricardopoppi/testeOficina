@@ -15,11 +15,9 @@ Utilize a música abaixo para encarnar um dos personagens e componha dois a trê
 
 Rosinha era uma cabrocha complexa. Filha do morro, amava sua comunidade ao mesmo tempo que ficava deslumbrada pelas luzes e brilhos do asfalto. Dominava com o olhar, vários malandros que comumente brigavam por algumas horas na cia de tão bela mulher.
 
-Mas o que ningúem sabia, é que Rosinha se encantava com as mulheres.
-
-Entre os flertes com suas amigas no trabalho, ficou apaixonada. 
-
-Nenhum malandro erá pareo para seu amor.
+    Mas o que ningúem sabia, é que Rosinha se encantava com as mulheres.
+    Entre os flertes com suas amigas no trabalho, ficou apaixonada. 
+    Nenhum malandro erá pareo para seu amor.
 
 
     Numa linda madrugada
